@@ -1,0 +1,30 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: antiquewhite;
+}
+
+form  {
+    background-color: white;
+    border: 2px solid black ;
+    text-align: center;
+    margin: auto;
+    margin-top: 20%;
+    max-height: 600px;
+    max-width: 450px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+#firstName {
+    margin-top: 1%;;
+    margin-bottom: 3%;
+}
+
+#lastName, #email {
+    margin-bottom: 3%;
+}
+
+#submit {
+    margin-top: 2%;
+    margin-bottom: 3%;
+}
